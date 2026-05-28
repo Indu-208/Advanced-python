@@ -21,18 +21,6 @@ This repository contains advanced Python concepts and practice programs.
 - Multithreading Examples
 - Package Creation Programs
 
-## Repository Structure
-advanced-python/
-│
-├── lambda_functions.py
-├── decorators.py
-├── iterators.py
-├── generators.py
-├── regex.py
-├── multithreading.py
-├── modules_packages.py
-└── README.md
-
 ## Technologies Used
 - Python 3
 
